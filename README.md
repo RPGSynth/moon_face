@@ -28,7 +28,7 @@ In practice, for this project, they are:
 - and perfect as collage pieces
 
 <p align="center">
-  <img src="images/moon_maria_800.jpg" width="700" alt="Moon with labeled lunar maria">
+  <img src="images/moon_maria.jpg" alt="Moon with labeled lunar maria">
 </p>
 
 ---
