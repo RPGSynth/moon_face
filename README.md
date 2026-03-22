@@ -3,7 +3,7 @@
 This repo is inspired by the work of <a href="https://github.com/fogleman/primitive">fogleman/primitive</a> and also the web app based on this, <a href="https://github.com/Tw1ddle/geometrize">Tw1ddle/geometrize</a>.
 
 <p align="center">
-  <img src="images/primitive_example.gif" width="700" alt="Primitive example GIF">
+  <img src="images/primitives.gif" width="720" alt="Primitive reconstruction GIF">
 </p>
 
 My idea is simple:
@@ -20,36 +20,58 @@ Now you can answer it. 🌚
 ## But what are lunar maria?
 
 Lunar maria are the large dark spots you see on the Moon.  
-Early astronomers thought they were seas, which is why they are called <i>maria</i> ("seas" in Latin), but actually they are giant basalt plains created by ancient volcanic activity.
+Early astronomers thought they were seas, which is why they are called <i>maria</i>, but actually they are giant basalt plains created by ancient volcanic activity.
 
 In practice, for this project, they are:
 - dark
 - recognizable
+- weirdly beautiful
 - and perfect as collage pieces
 
 <p align="center">
-  <img src="images/moon_maria.jpg" alt="Moon with labeled lunar maria">
+  <img src="images/moon_maria.jpg" width="700" alt="Moon with labeled lunar maria">
 </p>
 
 ---
 
 ## Why use the NASA mosaic image?
 
-For this project, I use the <b>NASA lunar mosaic</b> instead of just any random nice-looking Moon picture.
+For this project I use the <b>NASA lunar mosaic</b> instead of just any random pretty Moon image.
 
 Why?
 
-Because for segmentation, a beautiful moon photo is not always the best moon photo.
+Because for segmentation, a dramatic Moon photo is not always the best Moon photo.
 
-The NASA mosaic is much better for this because:
-- the lighting is more standardized
-- the brightness is more even across the lunar surface
-- the maria are easier to isolate cleanly
-- there is less risk that shadows, local contrast, or image processing tricks get confused with actual maria
-- it gives a much more stable base to build a corpus of pieces from
+The NASA mosaic is much better for this because the lighting is more standardized and the brightness is more even across the lunar surface. That makes the maria easier to isolate cleanly and reduces the chance that shadows or contrast tricks get confused with actual maria.
 
-So basically:  
-if I want nice lunar maria pieces, I need a moon image that is good for extraction, not just one that looks dramatic.
+So basically, I want an image that is good for <b>extraction</b>, not just one that looks cool.
+
+### Smoothing the mosaic a little
+
+Before selecting the maria, the mosaic can be smoothed a bit so the big dark regions become easier to isolate.
+
+This step is simple:
+- reduce small texture noise
+- reduce local contrast weirdness
+- keep the large lunar structures
+- make the maria read more like coherent dark masses
+
+<p align="center">
+  <img src="images/mosaic_step_1.png" width="31%" alt="Original moon mosaic">
+  <img src="images/mosaic_step_2.png" width="31%" alt="Smoothed moon mosaic">
+  <img src="images/mosaic_step_3.png" width="31%" alt="Further simplified moon mosaic">
+</p>
+
+<p align="center">
+  <sub>
+    <b>Left:</b> original NASA mosaic &nbsp; | &nbsp;
+    <b>Middle:</b> smoothed version &nbsp; | &nbsp;
+    <b>Right:</b> simplified version where the maria become easier to separate
+  </sub>
+</p>
+
+This does not need to be scientifically perfect.  
+The goal is just to make the lunar maria easier to extract as clean collage pieces.
 
 ---
 
@@ -73,7 +95,7 @@ For that, this project is divided into several main parts.
 
 ### 1. 🌑 Lunar maria selection into pieces for the collage
 
-The goal is to take a picture of the Moon — more precisely the NASA mosaic, where the light is much more standardized — isolate the lunar maria, and use them as the pieces for the collage.
+The goal is to take a picture of the Moon, more precisely the NASA mosaic where the light is much more standardized, isolate the lunar maria, and use them as the pieces for the collage.
 
 So this step is about:
 - isolating the moon
@@ -90,10 +112,14 @@ These pieces become the visual vocabulary of the whole project.
 </p>
 
 <p align="center">
-  <sub><b>Left:</b> selected maria regions &nbsp; | &nbsp; <b>Middle:</b> clean maria mask &nbsp; | &nbsp; <b>Right:</b> extracted corpus pieces</sub>
+  <sub>
+    <b>Left:</b> selected maria regions &nbsp; | &nbsp;
+    <b>Middle:</b> clean maria mask &nbsp; | &nbsp;
+    <b>Right:</b> extracted corpus pieces
+  </sub>
 </p>
 
-### 2. 🙂 Weight faces using face parsing / MediaPipe Face Mesh
+### 2. 🙂 Weight faces using MediaPipe Face Mesh
 
 The second step is to transform a face into a weighted grayscale image.
 
