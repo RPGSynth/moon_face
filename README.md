@@ -3,7 +3,7 @@
 This repo is inspired by the work of <a href="https://github.com/fogleman/primitive">fogleman/primitive</a> and also the web app based on this, <a href="https://github.com/Tw1ddle/geometrize">Tw1ddle/geometrize</a>.
 
 <p align="center">
-  <img src="images/primitives.gif" width="720" alt="Primitive reconstruction GIF">
+  <img src="images/primitives.gif" width="360" alt="Primitive reconstruction GIF">
 </p>
 
 My idea is simple:
