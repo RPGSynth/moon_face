@@ -94,7 +94,9 @@ def build_noise_field(shape, seed_value):
     noise = rng.random(shape, dtype=np.float32)
     blur_size = odd_kernel(GEODESIC_NOISE_BLUR)
     noise = cv2.GaussianBlur(noise, (blur_size, blur_size), 0)
-    return cv2.normalize(noise, None, 0.0, 1.0, cv2.NORM_MINMAX)
+    normalized = np.empty_like(noise)
+    cv2.normalize(noise, normalized, alpha=0.0, beta=1.0, norm_type=cv2.NORM_MINMAX)
+    return normalized
 
 
 def geodesic_partition(component_crop, seeds, noise_field):
