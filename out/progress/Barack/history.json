@@ -1,0 +1,2506 @@
+[
+  {
+    "accepted": 0,
+    "score": 48.304508209228516
+  },
+  {
+    "accepted": 1,
+    "score": 45.504024505615234,
+    "piece_id": "piece_011"
+  },
+  {
+    "accepted": 2,
+    "score": 43.037452697753906,
+    "piece_id": "piece_014"
+  },
+  {
+    "accepted": 3,
+    "score": 41.00819396972656,
+    "piece_id": "piece_008"
+  },
+  {
+    "accepted": 4,
+    "score": 39.138885498046875,
+    "piece_id": "piece_008"
+  },
+  {
+    "accepted": 5,
+    "score": 37.357601165771484,
+    "piece_id": "piece_008"
+  },
+  {
+    "accepted": 6,
+    "score": 35.55674362182617,
+    "piece_id": "piece_008"
+  },
+  {
+    "accepted": 7,
+    "score": 33.90931701660156,
+    "piece_id": "piece_012"
+  },
+  {
+    "accepted": 8,
+    "score": 32.36576461791992,
+    "piece_id": "piece_006"
+  },
+  {
+    "accepted": 9,
+    "score": 31.124794006347656,
+    "piece_id": "piece_014"
+  },
+  {
+    "accepted": 10,
+    "score": 29.822641372680664,
+    "piece_id": "piece_014"
+  },
+  {
+    "accepted": 11,
+    "score": 28.575458526611328,
+    "piece_id": "piece_005"
+  },
+  {
+    "accepted": 12,
+    "score": 27.551040649414062,
+    "piece_id": "piece_008"
+  },
+  {
+    "accepted": 13,
+    "score": 26.509361267089844,
+    "piece_id": "piece_005"
+  },
+  {
+    "accepted": 14,
+    "score": 25.568368911743164,
+    "piece_id": "piece_008"
+  },
+  {
+    "accepted": 15,
+    "score": 24.659517288208008,
+    "piece_id": "piece_002"
+  },
+  {
+    "accepted": 16,
+    "score": 23.635133743286133,
+    "piece_id": "piece_008"
+  },
+  {
+    "accepted": 17,
+    "score": 22.746179580688477,
+    "piece_id": "piece_003"
+  },
+  {
+    "accepted": 18,
+    "score": 21.905752182006836,
+    "piece_id": "piece_011"
+  },
+  {
+    "accepted": 19,
+    "score": 21.121070861816406,
+    "piece_id": "piece_011"
+  },
+  {
+    "accepted": 20,
+    "score": 20.392803192138672,
+    "piece_id": "piece_008"
+  },
+  {
+    "accepted": 21,
+    "score": 19.679283142089844,
+    "piece_id": "piece_011"
+  },
+  {
+    "accepted": 22,
+    "score": 19.082983016967773,
+    "piece_id": "piece_002"
+  },
+  {
+    "accepted": 23,
+    "score": 18.436107635498047,
+    "piece_id": "piece_008"
+  },
+  {
+    "accepted": 24,
+    "score": 17.91952133178711,
+    "piece_id": "piece_010"
+  },
+  {
+    "accepted": 25,
+    "score": 17.488967895507812,
+    "piece_id": "piece_014"
+  },
+  {
+    "accepted": 26,
+    "score": 17.085010528564453,
+    "piece_id": "piece_012"
+  },
+  {
+    "accepted": 27,
+    "score": 16.710681915283203,
+    "piece_id": "piece_016"
+  },
+  {
+    "accepted": 28,
+    "score": 16.283811569213867,
+    "piece_id": "piece_009"
+  },
+  {
+    "accepted": 29,
+    "score": 15.887245178222656,
+    "piece_id": "piece_011"
+  },
+  {
+    "accepted": 30,
+    "score": 15.439837455749512,
+    "piece_id": "piece_011"
+  },
+  {
+    "accepted": 31,
+    "score": 15.121158599853516,
+    "piece_id": "piece_006"
+  },
+  {
+    "accepted": 32,
+    "score": 14.778929710388184,
+    "piece_id": "piece_002"
+  },
+  {
+    "accepted": 33,
+    "score": 14.483447074890137,
+    "piece_id": "piece_004"
+  },
+  {
+    "accepted": 34,
+    "score": 14.171046257019043,
+    "piece_id": "piece_016"
+  },
+  {
+    "accepted": 35,
+    "score": 13.888100624084473,
+    "piece_id": "piece_008"
+  },
+  {
+    "accepted": 36,
+    "score": 13.569894790649414,
+    "piece_id": "piece_014"
+  },
+  {
+    "accepted": 37,
+    "score": 13.312895774841309,
+    "piece_id": "piece_002"
+  },
+  {
+    "accepted": 38,
+    "score": 13.062397003173828,
+    "piece_id": "piece_012"
+  },
+  {
+    "accepted": 39,
+    "score": 12.807570457458496,
+    "piece_id": "piece_012"
+  },
+  {
+    "accepted": 40,
+    "score": 12.603981018066406,
+    "piece_id": "piece_014"
+  },
+  {
+    "accepted": 41,
+    "score": 12.424834251403809,
+    "piece_id": "piece_004"
+  },
+  {
+    "accepted": 42,
+    "score": 12.212987899780273,
+    "piece_id": "piece_009"
+  },
+  {
+    "accepted": 43,
+    "score": 12.079985618591309,
+    "piece_id": "piece_012"
+  },
+  {
+    "accepted": 44,
+    "score": 11.935687065124512,
+    "piece_id": "piece_001"
+  },
+  {
+    "accepted": 45,
+    "score": 11.747197151184082,
+    "piece_id": "piece_008"
+  },
+  {
+    "accepted": 46,
+    "score": 11.600383758544922,
+    "piece_id": "piece_018"
+  },
+  {
+    "accepted": 47,
+    "score": 11.491493225097656,
+    "piece_id": "piece_012"
+  },
+  {
+    "accepted": 48,
+    "score": 11.383556365966797,
+    "piece_id": "piece_010"
+  },
+  {
+    "accepted": 49,
+    "score": 11.243206024169922,
+    "piece_id": "piece_018"
+  },
+  {
+    "accepted": 50,
+    "score": 11.108978271484375,
+    "piece_id": "piece_010"
+  },
+  {
+    "accepted": 51,
+    "score": 11.008337020874023,
+    "piece_id": "piece_009"
+  },
+  {
+    "accepted": 52,
+    "score": 10.921809196472168,
+    "piece_id": "piece_006"
+  },
+  {
+    "accepted": 53,
+    "score": 10.817841529846191,
+    "piece_id": "piece_018"
+  },
+  {
+    "accepted": 54,
+    "score": 10.73785400390625,
+    "piece_id": "piece_015"
+  },
+  {
+    "accepted": 55,
+    "score": 10.588186264038086,
+    "piece_id": "piece_013"
+  },
+  {
+    "accepted": 56,
+    "score": 10.433640480041504,
+    "piece_id": "piece_005"
+  },
+  {
+    "accepted": 57,
+    "score": 10.361104965209961,
+    "piece_id": "piece_006"
+  },
+  {
+    "accepted": 58,
+    "score": 10.265872955322266,
+    "piece_id": "piece_001"
+  },
+  {
+    "accepted": 59,
+    "score": 10.204326629638672,
+    "piece_id": "piece_006"
+  },
+  {
+    "accepted": 60,
+    "score": 10.142003059387207,
+    "piece_id": "piece_016"
+  },
+  {
+    "accepted": 61,
+    "score": 10.027032852172852,
+    "piece_id": "piece_018"
+  },
+  {
+    "accepted": 62,
+    "score": 9.952902793884277,
+    "piece_id": "piece_002"
+  },
+  {
+    "accepted": 63,
+    "score": 9.888221740722656,
+    "piece_id": "piece_015"
+  },
+  {
+    "accepted": 64,
+    "score": 9.810142517089844,
+    "piece_id": "piece_016"
+  },
+  {
+    "accepted": 65,
+    "score": 9.763556480407715,
+    "piece_id": "piece_006"
+  },
+  {
+    "accepted": 66,
+    "score": 9.707258224487305,
+    "piece_id": "piece_010"
+  },
+  {
+    "accepted": 67,
+    "score": 9.652093887329102,
+    "piece_id": "piece_018"
+  },
+  {
+    "accepted": 68,
+    "score": 9.601317405700684,
+    "piece_id": "piece_010"
+  },
+  {
+    "accepted": 69,
+    "score": 9.540306091308594,
+    "piece_id": "piece_016"
+  },
+  {
+    "accepted": 70,
+    "score": 9.496772766113281,
+    "piece_id": "piece_002"
+  },
+  {
+    "accepted": 71,
+    "score": 9.436126708984375,
+    "piece_id": "piece_016"
+  },
+  {
+    "accepted": 72,
+    "score": 9.381567001342773,
+    "piece_id": "piece_013"
+  },
+  {
+    "accepted": 73,
+    "score": 9.345606803894043,
+    "piece_id": "piece_011"
+  },
+  {
+    "accepted": 74,
+    "score": 9.277990341186523,
+    "piece_id": "piece_011"
+  },
+  {
+    "accepted": 75,
+    "score": 9.23800277709961,
+    "piece_id": "piece_016"
+  },
+  {
+    "accepted": 76,
+    "score": 9.191595077514648,
+    "piece_id": "piece_008"
+  },
+  {
+    "accepted": 77,
+    "score": 9.142489433288574,
+    "piece_id": "piece_009"
+  },
+  {
+    "accepted": 78,
+    "score": 9.112835884094238,
+    "piece_id": "piece_003"
+  },
+  {
+    "accepted": 79,
+    "score": 9.061628341674805,
+    "piece_id": "piece_006"
+  },
+  {
+    "accepted": 80,
+    "score": 9.007619857788086,
+    "piece_id": "piece_002"
+  },
+  {
+    "accepted": 81,
+    "score": 8.964974403381348,
+    "piece_id": "piece_006"
+  },
+  {
+    "accepted": 82,
+    "score": 8.934599876403809,
+    "piece_id": "piece_011"
+  },
+  {
+    "accepted": 83,
+    "score": 8.898503303527832,
+    "piece_id": "piece_006"
+  },
+  {
+    "accepted": 84,
+    "score": 8.863268852233887,
+    "piece_id": "piece_014"
+  },
+  {
+    "accepted": 85,
+    "score": 8.824721336364746,
+    "piece_id": "piece_018"
+  },
+  {
+    "accepted": 86,
+    "score": 8.783130645751953,
+    "piece_id": "piece_011"
+  },
+  {
+    "accepted": 87,
+    "score": 8.736327171325684,
+    "piece_id": "piece_016"
+  },
+  {
+    "accepted": 88,
+    "score": 8.707324981689453,
+    "piece_id": "piece_017"
+  },
+  {
+    "accepted": 89,
+    "score": 8.677677154541016,
+    "piece_id": "piece_004"
+  },
+  {
+    "accepted": 90,
+    "score": 8.6495943069458,
+    "piece_id": "piece_011"
+  },
+  {
+    "accepted": 91,
+    "score": 8.629207611083984,
+    "piece_id": "piece_015"
+  },
+  {
+    "accepted": 92,
+    "score": 8.5907564163208,
+    "piece_id": "piece_003"
+  },
+  {
+    "accepted": 93,
+    "score": 8.555039405822754,
+    "piece_id": "piece_017"
+  },
+  {
+    "accepted": 94,
+    "score": 8.526144027709961,
+    "piece_id": "piece_014"
+  },
+  {
+    "accepted": 95,
+    "score": 8.50175666809082,
+    "piece_id": "piece_006"
+  },
+  {
+    "accepted": 96,
+    "score": 8.462656021118164,
+    "piece_id": "piece_018"
+  },
+  {
+    "accepted": 97,
+    "score": 8.440926551818848,
+    "piece_id": "piece_017"
+  },
+  {
+    "accepted": 98,
+    "score": 8.420475959777832,
+    "piece_id": "piece_014"
+  },
+  {
+    "accepted": 99,
+    "score": 8.39777946472168,
+    "piece_id": "piece_006"
+  },
+  {
+    "accepted": 100,
+    "score": 8.374847412109375,
+    "piece_id": "piece_016"
+  },
+  {
+    "accepted": 101,
+    "score": 8.347153663635254,
+    "piece_id": "piece_003"
+  },
+  {
+    "accepted": 102,
+    "score": 8.31036376953125,
+    "piece_id": "piece_006"
+  },
+  {
+    "accepted": 103,
+    "score": 8.293011665344238,
+    "piece_id": "piece_007"
+  },
+  {
+    "accepted": 104,
+    "score": 8.271876335144043,
+    "piece_id": "piece_016"
+  },
+  {
+    "accepted": 105,
+    "score": 8.254615783691406,
+    "piece_id": "piece_009"
+  },
+  {
+    "accepted": 106,
+    "score": 8.218395233154297,
+    "piece_id": "piece_015"
+  },
+  {
+    "accepted": 107,
+    "score": 8.189864158630371,
+    "piece_id": "piece_002"
+  },
+  {
+    "accepted": 108,
+    "score": 8.166927337646484,
+    "piece_id": "piece_005"
+  },
+  {
+    "accepted": 109,
+    "score": 8.130426406860352,
+    "piece_id": "piece_018"
+  },
+  {
+    "accepted": 110,
+    "score": 8.113384246826172,
+    "piece_id": "piece_005"
+  },
+  {
+    "accepted": 111,
+    "score": 8.092153549194336,
+    "piece_id": "piece_002"
+  },
+  {
+    "accepted": 112,
+    "score": 8.067453384399414,
+    "piece_id": "piece_007"
+  },
+  {
+    "accepted": 113,
+    "score": 8.048778533935547,
+    "piece_id": "piece_018"
+  },
+  {
+    "accepted": 114,
+    "score": 8.017983436584473,
+    "piece_id": "piece_010"
+  },
+  {
+    "accepted": 115,
+    "score": 7.997974872589111,
+    "piece_id": "piece_006"
+  },
+  {
+    "accepted": 116,
+    "score": 7.979954719543457,
+    "piece_id": "piece_015"
+  },
+  {
+    "accepted": 117,
+    "score": 7.9636993408203125,
+    "piece_id": "piece_001"
+  },
+  {
+    "accepted": 118,
+    "score": 7.945370674133301,
+    "piece_id": "piece_016"
+  },
+  {
+    "accepted": 119,
+    "score": 7.9289069175720215,
+    "piece_id": "piece_005"
+  },
+  {
+    "accepted": 120,
+    "score": 7.911902904510498,
+    "piece_id": "piece_004"
+  },
+  {
+    "accepted": 121,
+    "score": 7.892723560333252,
+    "piece_id": "piece_001"
+  },
+  {
+    "accepted": 122,
+    "score": 7.878915786743164,
+    "piece_id": "piece_010"
+  },
+  {
+    "accepted": 123,
+    "score": 7.861990451812744,
+    "piece_id": "piece_005"
+  },
+  {
+    "accepted": 124,
+    "score": 7.846096038818359,
+    "piece_id": "piece_005"
+  },
+  {
+    "accepted": 125,
+    "score": 7.823992729187012,
+    "piece_id": "piece_016"
+  },
+  {
+    "accepted": 126,
+    "score": 7.809263229370117,
+    "piece_id": "piece_018"
+  },
+  {
+    "accepted": 127,
+    "score": 7.789048671722412,
+    "piece_id": "piece_008"
+  },
+  {
+    "accepted": 128,
+    "score": 7.773942947387695,
+    "piece_id": "piece_016"
+  },
+  {
+    "accepted": 129,
+    "score": 7.750565052032471,
+    "piece_id": "piece_011"
+  },
+  {
+    "accepted": 130,
+    "score": 7.737286567687988,
+    "piece_id": "piece_009"
+  },
+  {
+    "accepted": 131,
+    "score": 7.726224422454834,
+    "piece_id": "piece_010"
+  },
+  {
+    "accepted": 132,
+    "score": 7.716624736785889,
+    "piece_id": "piece_010"
+  },
+  {
+    "accepted": 133,
+    "score": 7.7047438621521,
+    "piece_id": "piece_017"
+  },
+  {
+    "accepted": 134,
+    "score": 7.693819999694824,
+    "piece_id": "piece_012"
+  },
+  {
+    "accepted": 135,
+    "score": 7.6816558837890625,
+    "piece_id": "piece_018"
+  },
+  {
+    "accepted": 136,
+    "score": 7.665399074554443,
+    "piece_id": "piece_008"
+  },
+  {
+    "accepted": 137,
+    "score": 7.654349327087402,
+    "piece_id": "piece_014"
+  },
+  {
+    "accepted": 138,
+    "score": 7.644150257110596,
+    "piece_id": "piece_003"
+  },
+  {
+    "accepted": 139,
+    "score": 7.634194850921631,
+    "piece_id": "piece_009"
+  },
+  {
+    "accepted": 140,
+    "score": 7.623012542724609,
+    "piece_id": "piece_014"
+  },
+  {
+    "accepted": 141,
+    "score": 7.610601902008057,
+    "piece_id": "piece_010"
+  },
+  {
+    "accepted": 142,
+    "score": 7.599854946136475,
+    "piece_id": "piece_010"
+  },
+  {
+    "accepted": 143,
+    "score": 7.587639331817627,
+    "piece_id": "piece_011"
+  },
+  {
+    "accepted": 144,
+    "score": 7.578428745269775,
+    "piece_id": "piece_004"
+  },
+  {
+    "accepted": 145,
+    "score": 7.569019794464111,
+    "piece_id": "piece_004"
+  },
+  {
+    "accepted": 146,
+    "score": 7.559023380279541,
+    "piece_id": "piece_017"
+  },
+  {
+    "accepted": 147,
+    "score": 7.549767017364502,
+    "piece_id": "piece_003"
+  },
+  {
+    "accepted": 148,
+    "score": 7.537589073181152,
+    "piece_id": "piece_004"
+  },
+  {
+    "accepted": 149,
+    "score": 7.5270819664001465,
+    "piece_id": "piece_001"
+  },
+  {
+    "accepted": 150,
+    "score": 7.516630172729492,
+    "piece_id": "piece_011"
+  },
+  {
+    "accepted": 151,
+    "score": 7.507343769073486,
+    "piece_id": "piece_002"
+  },
+  {
+    "accepted": 152,
+    "score": 7.497078895568848,
+    "piece_id": "piece_017"
+  },
+  {
+    "accepted": 153,
+    "score": 7.482651233673096,
+    "piece_id": "piece_014"
+  },
+  {
+    "accepted": 154,
+    "score": 7.472631931304932,
+    "piece_id": "piece_005"
+  },
+  {
+    "accepted": 155,
+    "score": 7.462274074554443,
+    "piece_id": "piece_017"
+  },
+  {
+    "accepted": 156,
+    "score": 7.450313091278076,
+    "piece_id": "piece_011"
+  },
+  {
+    "accepted": 157,
+    "score": 7.438480854034424,
+    "piece_id": "piece_009"
+  },
+  {
+    "accepted": 158,
+    "score": 7.42934513092041,
+    "piece_id": "piece_010"
+  },
+  {
+    "accepted": 159,
+    "score": 7.421347618103027,
+    "piece_id": "piece_011"
+  },
+  {
+    "accepted": 160,
+    "score": 7.415245532989502,
+    "piece_id": "piece_010"
+  },
+  {
+    "accepted": 161,
+    "score": 7.406376838684082,
+    "piece_id": "piece_011"
+  },
+  {
+    "accepted": 162,
+    "score": 7.3899736404418945,
+    "piece_id": "piece_006"
+  },
+  {
+    "accepted": 163,
+    "score": 7.383784770965576,
+    "piece_id": "piece_003"
+  },
+  {
+    "accepted": 164,
+    "score": 7.374467372894287,
+    "piece_id": "piece_016"
+  },
+  {
+    "accepted": 165,
+    "score": 7.366134166717529,
+    "piece_id": "piece_016"
+  },
+  {
+    "accepted": 166,
+    "score": 7.353016376495361,
+    "piece_id": "piece_006"
+  },
+  {
+    "accepted": 167,
+    "score": 7.345466136932373,
+    "piece_id": "piece_006"
+  },
+  {
+    "accepted": 168,
+    "score": 7.3376145362854,
+    "piece_id": "piece_018"
+  },
+  {
+    "accepted": 169,
+    "score": 7.329940319061279,
+    "piece_id": "piece_006"
+  },
+  {
+    "accepted": 170,
+    "score": 7.322009086608887,
+    "piece_id": "piece_010"
+  },
+  {
+    "accepted": 171,
+    "score": 7.312028884887695,
+    "piece_id": "piece_007"
+  },
+  {
+    "accepted": 172,
+    "score": 7.303170204162598,
+    "piece_id": "piece_007"
+  },
+  {
+    "accepted": 173,
+    "score": 7.29739236831665,
+    "piece_id": "piece_012"
+  },
+  {
+    "accepted": 174,
+    "score": 7.291693210601807,
+    "piece_id": "piece_004"
+  },
+  {
+    "accepted": 175,
+    "score": 7.282796859741211,
+    "piece_id": "piece_007"
+  },
+  {
+    "accepted": 176,
+    "score": 7.271183490753174,
+    "piece_id": "piece_016"
+  },
+  {
+    "accepted": 177,
+    "score": 7.265982627868652,
+    "piece_id": "piece_001"
+  },
+  {
+    "accepted": 178,
+    "score": 7.2572479248046875,
+    "piece_id": "piece_011"
+  },
+  {
+    "accepted": 179,
+    "score": 7.2490234375,
+    "piece_id": "piece_008"
+  },
+  {
+    "accepted": 180,
+    "score": 7.238475322723389,
+    "piece_id": "piece_009"
+  },
+  {
+    "accepted": 181,
+    "score": 7.232086658477783,
+    "piece_id": "piece_012"
+  },
+  {
+    "accepted": 182,
+    "score": 7.2257080078125,
+    "piece_id": "piece_014"
+  },
+  {
+    "accepted": 183,
+    "score": 7.217846870422363,
+    "piece_id": "piece_006"
+  },
+  {
+    "accepted": 184,
+    "score": 7.209719181060791,
+    "piece_id": "piece_001"
+  },
+  {
+    "accepted": 185,
+    "score": 7.203707218170166,
+    "piece_id": "piece_003"
+  },
+  {
+    "accepted": 186,
+    "score": 7.195704460144043,
+    "piece_id": "piece_018"
+  },
+  {
+    "accepted": 187,
+    "score": 7.187091827392578,
+    "piece_id": "piece_016"
+  },
+  {
+    "accepted": 188,
+    "score": 7.1822004318237305,
+    "piece_id": "piece_015"
+  },
+  {
+    "accepted": 189,
+    "score": 7.1762614250183105,
+    "piece_id": "piece_009"
+  },
+  {
+    "accepted": 190,
+    "score": 7.1684184074401855,
+    "piece_id": "piece_008"
+  },
+  {
+    "accepted": 191,
+    "score": 7.162032604217529,
+    "piece_id": "piece_002"
+  },
+  {
+    "accepted": 192,
+    "score": 7.155192852020264,
+    "piece_id": "piece_011"
+  },
+  {
+    "accepted": 193,
+    "score": 7.146115779876709,
+    "piece_id": "piece_013"
+  },
+  {
+    "accepted": 194,
+    "score": 7.140668869018555,
+    "piece_id": "piece_008"
+  },
+  {
+    "accepted": 195,
+    "score": 7.132070541381836,
+    "piece_id": "piece_013"
+  },
+  {
+    "accepted": 196,
+    "score": 7.123188018798828,
+    "piece_id": "piece_010"
+  },
+  {
+    "accepted": 197,
+    "score": 7.115495204925537,
+    "piece_id": "piece_003"
+  },
+  {
+    "accepted": 198,
+    "score": 7.110491752624512,
+    "piece_id": "piece_003"
+  },
+  {
+    "accepted": 199,
+    "score": 7.1038970947265625,
+    "piece_id": "piece_007"
+  },
+  {
+    "accepted": 200,
+    "score": 7.095413684844971,
+    "piece_id": "piece_016"
+  },
+  {
+    "accepted": 201,
+    "score": 7.090140342712402,
+    "piece_id": "piece_016"
+  },
+  {
+    "accepted": 202,
+    "score": 7.082098960876465,
+    "piece_id": "piece_011"
+  },
+  {
+    "accepted": 203,
+    "score": 7.07577657699585,
+    "piece_id": "piece_009"
+  },
+  {
+    "accepted": 204,
+    "score": 7.069604396820068,
+    "piece_id": "piece_016"
+  },
+  {
+    "accepted": 205,
+    "score": 7.0637335777282715,
+    "piece_id": "piece_005"
+  },
+  {
+    "accepted": 206,
+    "score": 7.056471347808838,
+    "piece_id": "piece_003"
+  },
+  {
+    "accepted": 207,
+    "score": 7.049327850341797,
+    "piece_id": "piece_003"
+  },
+  {
+    "accepted": 208,
+    "score": 7.044515609741211,
+    "piece_id": "piece_016"
+  },
+  {
+    "accepted": 209,
+    "score": 7.0384745597839355,
+    "piece_id": "piece_003"
+  },
+  {
+    "accepted": 210,
+    "score": 7.033245086669922,
+    "piece_id": "piece_015"
+  },
+  {
+    "accepted": 211,
+    "score": 7.028652191162109,
+    "piece_id": "piece_001"
+  },
+  {
+    "accepted": 212,
+    "score": 7.021951198577881,
+    "piece_id": "piece_008"
+  },
+  {
+    "accepted": 213,
+    "score": 7.01547384262085,
+    "piece_id": "piece_011"
+  },
+  {
+    "accepted": 214,
+    "score": 7.0088605880737305,
+    "piece_id": "piece_017"
+  },
+  {
+    "accepted": 215,
+    "score": 6.99934196472168,
+    "piece_id": "piece_007"
+  },
+  {
+    "accepted": 216,
+    "score": 6.993336200714111,
+    "piece_id": "piece_006"
+  },
+  {
+    "accepted": 217,
+    "score": 6.989020824432373,
+    "piece_id": "piece_007"
+  },
+  {
+    "accepted": 218,
+    "score": 6.9822540283203125,
+    "piece_id": "piece_013"
+  },
+  {
+    "accepted": 219,
+    "score": 6.977474212646484,
+    "piece_id": "piece_001"
+  },
+  {
+    "accepted": 220,
+    "score": 6.972182750701904,
+    "piece_id": "piece_016"
+  },
+  {
+    "accepted": 221,
+    "score": 6.965814590454102,
+    "piece_id": "piece_007"
+  },
+  {
+    "accepted": 222,
+    "score": 6.96108341217041,
+    "piece_id": "piece_005"
+  },
+  {
+    "accepted": 223,
+    "score": 6.957454681396484,
+    "piece_id": "piece_018"
+  },
+  {
+    "accepted": 224,
+    "score": 6.949413299560547,
+    "piece_id": "piece_007"
+  },
+  {
+    "accepted": 225,
+    "score": 6.943342685699463,
+    "piece_id": "piece_003"
+  },
+  {
+    "accepted": 226,
+    "score": 6.938162803649902,
+    "piece_id": "piece_016"
+  },
+  {
+    "accepted": 227,
+    "score": 6.933636665344238,
+    "piece_id": "piece_011"
+  },
+  {
+    "accepted": 228,
+    "score": 6.926951885223389,
+    "piece_id": "piece_018"
+  },
+  {
+    "accepted": 229,
+    "score": 6.921872138977051,
+    "piece_id": "piece_018"
+  },
+  {
+    "accepted": 230,
+    "score": 6.916919708251953,
+    "piece_id": "piece_005"
+  },
+  {
+    "accepted": 231,
+    "score": 6.908321380615234,
+    "piece_id": "piece_005"
+  },
+  {
+    "accepted": 232,
+    "score": 6.902064323425293,
+    "piece_id": "piece_013"
+  },
+  {
+    "accepted": 233,
+    "score": 6.897726058959961,
+    "piece_id": "piece_007"
+  },
+  {
+    "accepted": 234,
+    "score": 6.891534328460693,
+    "piece_id": "piece_016"
+  },
+  {
+    "accepted": 235,
+    "score": 6.888070583343506,
+    "piece_id": "piece_004"
+  },
+  {
+    "accepted": 236,
+    "score": 6.8818840980529785,
+    "piece_id": "piece_002"
+  },
+  {
+    "accepted": 237,
+    "score": 6.876768112182617,
+    "piece_id": "piece_018"
+  },
+  {
+    "accepted": 238,
+    "score": 6.8719563484191895,
+    "piece_id": "piece_009"
+  },
+  {
+    "accepted": 239,
+    "score": 6.862586498260498,
+    "piece_id": "piece_006"
+  },
+  {
+    "accepted": 240,
+    "score": 6.855523109436035,
+    "piece_id": "piece_006"
+  },
+  {
+    "accepted": 241,
+    "score": 6.8498854637146,
+    "piece_id": "piece_018"
+  },
+  {
+    "accepted": 242,
+    "score": 6.842852592468262,
+    "piece_id": "piece_006"
+  },
+  {
+    "accepted": 243,
+    "score": 6.837714195251465,
+    "piece_id": "piece_007"
+  },
+  {
+    "accepted": 244,
+    "score": 6.831762313842773,
+    "piece_id": "piece_002"
+  },
+  {
+    "accepted": 245,
+    "score": 6.82647705078125,
+    "piece_id": "piece_006"
+  },
+  {
+    "accepted": 246,
+    "score": 6.819839954376221,
+    "piece_id": "piece_003"
+  },
+  {
+    "accepted": 247,
+    "score": 6.816456317901611,
+    "piece_id": "piece_002"
+  },
+  {
+    "accepted": 248,
+    "score": 6.810125827789307,
+    "piece_id": "piece_018"
+  },
+  {
+    "accepted": 249,
+    "score": 6.805429458618164,
+    "piece_id": "piece_014"
+  },
+  {
+    "accepted": 250,
+    "score": 6.798908710479736,
+    "piece_id": "piece_018"
+  },
+  {
+    "accepted": 251,
+    "score": 6.793266773223877,
+    "piece_id": "piece_007"
+  },
+  {
+    "accepted": 252,
+    "score": 6.787433624267578,
+    "piece_id": "piece_004"
+  },
+  {
+    "accepted": 253,
+    "score": 6.782037734985352,
+    "piece_id": "piece_013"
+  },
+  {
+    "accepted": 254,
+    "score": 6.777003288269043,
+    "piece_id": "piece_001"
+  },
+  {
+    "accepted": 255,
+    "score": 6.770593166351318,
+    "piece_id": "piece_003"
+  },
+  {
+    "accepted": 256,
+    "score": 6.765522480010986,
+    "piece_id": "piece_006"
+  },
+  {
+    "accepted": 257,
+    "score": 6.759194850921631,
+    "piece_id": "piece_016"
+  },
+  {
+    "accepted": 258,
+    "score": 6.754720687866211,
+    "piece_id": "piece_003"
+  },
+  {
+    "accepted": 259,
+    "score": 6.751323223114014,
+    "piece_id": "piece_006"
+  },
+  {
+    "accepted": 260,
+    "score": 6.746978759765625,
+    "piece_id": "piece_003"
+  },
+  {
+    "accepted": 261,
+    "score": 6.743551254272461,
+    "piece_id": "piece_010"
+  },
+  {
+    "accepted": 262,
+    "score": 6.73918342590332,
+    "piece_id": "piece_008"
+  },
+  {
+    "accepted": 263,
+    "score": 6.736414909362793,
+    "piece_id": "piece_011"
+  },
+  {
+    "accepted": 264,
+    "score": 6.731460094451904,
+    "piece_id": "piece_006"
+  },
+  {
+    "accepted": 265,
+    "score": 6.727165699005127,
+    "piece_id": "piece_006"
+  },
+  {
+    "accepted": 266,
+    "score": 6.723973274230957,
+    "piece_id": "piece_016"
+  },
+  {
+    "accepted": 267,
+    "score": 6.717152118682861,
+    "piece_id": "piece_018"
+  },
+  {
+    "accepted": 268,
+    "score": 6.713383674621582,
+    "piece_id": "piece_005"
+  },
+  {
+    "accepted": 269,
+    "score": 6.705137729644775,
+    "piece_id": "piece_016"
+  },
+  {
+    "accepted": 270,
+    "score": 6.700628757476807,
+    "piece_id": "piece_006"
+  },
+  {
+    "accepted": 271,
+    "score": 6.694328784942627,
+    "piece_id": "piece_010"
+  },
+  {
+    "accepted": 272,
+    "score": 6.690036773681641,
+    "piece_id": "piece_005"
+  },
+  {
+    "accepted": 273,
+    "score": 6.685628890991211,
+    "piece_id": "piece_005"
+  },
+  {
+    "accepted": 274,
+    "score": 6.682987213134766,
+    "piece_id": "piece_010"
+  },
+  {
+    "accepted": 275,
+    "score": 6.679682731628418,
+    "piece_id": "piece_009"
+  },
+  {
+    "accepted": 276,
+    "score": 6.66993522644043,
+    "piece_id": "piece_016"
+  },
+  {
+    "accepted": 277,
+    "score": 6.667147159576416,
+    "piece_id": "piece_008"
+  },
+  {
+    "accepted": 278,
+    "score": 6.663197040557861,
+    "piece_id": "piece_014"
+  },
+  {
+    "accepted": 279,
+    "score": 6.660459995269775,
+    "piece_id": "piece_007"
+  },
+  {
+    "accepted": 280,
+    "score": 6.655489444732666,
+    "piece_id": "piece_014"
+  },
+  {
+    "accepted": 281,
+    "score": 6.651400566101074,
+    "piece_id": "piece_005"
+  },
+  {
+    "accepted": 282,
+    "score": 6.646358489990234,
+    "piece_id": "piece_004"
+  },
+  {
+    "accepted": 283,
+    "score": 6.643434524536133,
+    "piece_id": "piece_018"
+  },
+  {
+    "accepted": 284,
+    "score": 6.639394760131836,
+    "piece_id": "piece_016"
+  },
+  {
+    "accepted": 285,
+    "score": 6.635984420776367,
+    "piece_id": "piece_017"
+  },
+  {
+    "accepted": 286,
+    "score": 6.632450103759766,
+    "piece_id": "piece_002"
+  },
+  {
+    "accepted": 287,
+    "score": 6.6300249099731445,
+    "piece_id": "piece_009"
+  },
+  {
+    "accepted": 288,
+    "score": 6.627279758453369,
+    "piece_id": "piece_005"
+  },
+  {
+    "accepted": 289,
+    "score": 6.624851226806641,
+    "piece_id": "piece_005"
+  },
+  {
+    "accepted": 290,
+    "score": 6.622004508972168,
+    "piece_id": "piece_010"
+  },
+  {
+    "accepted": 291,
+    "score": 6.619644641876221,
+    "piece_id": "piece_006"
+  },
+  {
+    "accepted": 292,
+    "score": 6.616158485412598,
+    "piece_id": "piece_009"
+  },
+  {
+    "accepted": 293,
+    "score": 6.611913681030273,
+    "piece_id": "piece_006"
+  },
+  {
+    "accepted": 294,
+    "score": 6.606918811798096,
+    "piece_id": "piece_004"
+  },
+  {
+    "accepted": 295,
+    "score": 6.603762626647949,
+    "piece_id": "piece_006"
+  },
+  {
+    "accepted": 296,
+    "score": 6.599125385284424,
+    "piece_id": "piece_008"
+  },
+  {
+    "accepted": 297,
+    "score": 6.595269203186035,
+    "piece_id": "piece_007"
+  },
+  {
+    "accepted": 298,
+    "score": 6.592856407165527,
+    "piece_id": "piece_003"
+  },
+  {
+    "accepted": 299,
+    "score": 6.588836193084717,
+    "piece_id": "piece_006"
+  },
+  {
+    "accepted": 300,
+    "score": 6.585216522216797,
+    "piece_id": "piece_006"
+  },
+  {
+    "accepted": 301,
+    "score": 6.581437587738037,
+    "piece_id": "piece_018"
+  },
+  {
+    "accepted": 302,
+    "score": 6.578216075897217,
+    "piece_id": "piece_005"
+  },
+  {
+    "accepted": 303,
+    "score": 6.574593544006348,
+    "piece_id": "piece_013"
+  },
+  {
+    "accepted": 304,
+    "score": 6.570612907409668,
+    "piece_id": "piece_010"
+  },
+  {
+    "accepted": 305,
+    "score": 6.566831588745117,
+    "piece_id": "piece_016"
+  },
+  {
+    "accepted": 306,
+    "score": 6.563147068023682,
+    "piece_id": "piece_012"
+  },
+  {
+    "accepted": 307,
+    "score": 6.560420989990234,
+    "piece_id": "piece_007"
+  },
+  {
+    "accepted": 308,
+    "score": 6.55693244934082,
+    "piece_id": "piece_017"
+  },
+  {
+    "accepted": 309,
+    "score": 6.555036544799805,
+    "piece_id": "piece_010"
+  },
+  {
+    "accepted": 310,
+    "score": 6.552405834197998,
+    "piece_id": "piece_007"
+  },
+  {
+    "accepted": 311,
+    "score": 6.548785209655762,
+    "piece_id": "piece_006"
+  },
+  {
+    "accepted": 312,
+    "score": 6.546269416809082,
+    "piece_id": "piece_002"
+  },
+  {
+    "accepted": 313,
+    "score": 6.543464183807373,
+    "piece_id": "piece_001"
+  },
+  {
+    "accepted": 314,
+    "score": 6.5385847091674805,
+    "piece_id": "piece_003"
+  },
+  {
+    "accepted": 315,
+    "score": 6.536928176879883,
+    "piece_id": "piece_014"
+  },
+  {
+    "accepted": 316,
+    "score": 6.5339508056640625,
+    "piece_id": "piece_009"
+  },
+  {
+    "accepted": 317,
+    "score": 6.530789852142334,
+    "piece_id": "piece_009"
+  },
+  {
+    "accepted": 318,
+    "score": 6.52735710144043,
+    "piece_id": "piece_015"
+  },
+  {
+    "accepted": 319,
+    "score": 6.523624420166016,
+    "piece_id": "piece_012"
+  },
+  {
+    "accepted": 320,
+    "score": 6.515653610229492,
+    "piece_id": "piece_006"
+  },
+  {
+    "accepted": 321,
+    "score": 6.509530544281006,
+    "piece_id": "piece_008"
+  },
+  {
+    "accepted": 322,
+    "score": 6.506960391998291,
+    "piece_id": "piece_006"
+  },
+  {
+    "accepted": 323,
+    "score": 6.502262592315674,
+    "piece_id": "piece_007"
+  },
+  {
+    "accepted": 324,
+    "score": 6.4983720779418945,
+    "piece_id": "piece_006"
+  },
+  {
+    "accepted": 325,
+    "score": 6.495459079742432,
+    "piece_id": "piece_010"
+  },
+  {
+    "accepted": 326,
+    "score": 6.4913330078125,
+    "piece_id": "piece_008"
+  },
+  {
+    "accepted": 327,
+    "score": 6.487332820892334,
+    "piece_id": "piece_007"
+  },
+  {
+    "accepted": 328,
+    "score": 6.484300136566162,
+    "piece_id": "piece_017"
+  },
+  {
+    "accepted": 329,
+    "score": 6.4801740646362305,
+    "piece_id": "piece_001"
+  },
+  {
+    "accepted": 330,
+    "score": 6.476937294006348,
+    "piece_id": "piece_009"
+  },
+  {
+    "accepted": 331,
+    "score": 6.474007606506348,
+    "piece_id": "piece_009"
+  },
+  {
+    "accepted": 332,
+    "score": 6.471723556518555,
+    "piece_id": "piece_002"
+  },
+  {
+    "accepted": 333,
+    "score": 6.468793869018555,
+    "piece_id": "piece_006"
+  },
+  {
+    "accepted": 334,
+    "score": 6.465379238128662,
+    "piece_id": "piece_010"
+  },
+  {
+    "accepted": 335,
+    "score": 6.4635233879089355,
+    "piece_id": "piece_006"
+  },
+  {
+    "accepted": 336,
+    "score": 6.461367130279541,
+    "piece_id": "piece_018"
+  },
+  {
+    "accepted": 337,
+    "score": 6.459381103515625,
+    "piece_id": "piece_018"
+  },
+  {
+    "accepted": 338,
+    "score": 6.455892562866211,
+    "piece_id": "piece_018"
+  },
+  {
+    "accepted": 339,
+    "score": 6.450850963592529,
+    "piece_id": "piece_007"
+  },
+  {
+    "accepted": 340,
+    "score": 6.4475274085998535,
+    "piece_id": "piece_015"
+  },
+  {
+    "accepted": 341,
+    "score": 6.445573329925537,
+    "piece_id": "piece_010"
+  },
+  {
+    "accepted": 342,
+    "score": 6.443026542663574,
+    "piece_id": "piece_013"
+  },
+  {
+    "accepted": 343,
+    "score": 6.44036865234375,
+    "piece_id": "piece_014"
+  },
+  {
+    "accepted": 344,
+    "score": 6.438215255737305,
+    "piece_id": "piece_003"
+  },
+  {
+    "accepted": 345,
+    "score": 6.431766986846924,
+    "piece_id": "piece_018"
+  },
+  {
+    "accepted": 346,
+    "score": 6.429512977600098,
+    "piece_id": "piece_009"
+  },
+  {
+    "accepted": 347,
+    "score": 6.427619457244873,
+    "piece_id": "piece_006"
+  },
+  {
+    "accepted": 348,
+    "score": 6.424734115600586,
+    "piece_id": "piece_008"
+  },
+  {
+    "accepted": 349,
+    "score": 6.421205997467041,
+    "piece_id": "piece_011"
+  },
+  {
+    "accepted": 350,
+    "score": 6.417391300201416,
+    "piece_id": "piece_011"
+  },
+  {
+    "accepted": 351,
+    "score": 6.414962291717529,
+    "piece_id": "piece_008"
+  },
+  {
+    "accepted": 352,
+    "score": 6.412900447845459,
+    "piece_id": "piece_002"
+  },
+  {
+    "accepted": 353,
+    "score": 6.410256385803223,
+    "piece_id": "piece_007"
+  },
+  {
+    "accepted": 354,
+    "score": 6.408134937286377,
+    "piece_id": "piece_007"
+  },
+  {
+    "accepted": 355,
+    "score": 6.404331207275391,
+    "piece_id": "piece_007"
+  },
+  {
+    "accepted": 356,
+    "score": 6.401308536529541,
+    "piece_id": "piece_017"
+  },
+  {
+    "accepted": 357,
+    "score": 6.398403167724609,
+    "piece_id": "piece_018"
+  },
+  {
+    "accepted": 358,
+    "score": 6.395861625671387,
+    "piece_id": "piece_010"
+  },
+  {
+    "accepted": 359,
+    "score": 6.393255710601807,
+    "piece_id": "piece_003"
+  },
+  {
+    "accepted": 360,
+    "score": 6.390581130981445,
+    "piece_id": "piece_010"
+  },
+  {
+    "accepted": 361,
+    "score": 6.388681411743164,
+    "piece_id": "piece_006"
+  },
+  {
+    "accepted": 362,
+    "score": 6.385438919067383,
+    "piece_id": "piece_006"
+  },
+  {
+    "accepted": 363,
+    "score": 6.382888317108154,
+    "piece_id": "piece_005"
+  },
+  {
+    "accepted": 364,
+    "score": 6.381496429443359,
+    "piece_id": "piece_018"
+  },
+  {
+    "accepted": 365,
+    "score": 6.379816055297852,
+    "piece_id": "piece_007"
+  },
+  {
+    "accepted": 366,
+    "score": 6.377521991729736,
+    "piece_id": "piece_007"
+  },
+  {
+    "accepted": 367,
+    "score": 6.375004768371582,
+    "piece_id": "piece_007"
+  },
+  {
+    "accepted": 368,
+    "score": 6.3709187507629395,
+    "piece_id": "piece_002"
+  },
+  {
+    "accepted": 369,
+    "score": 6.3683037757873535,
+    "piece_id": "piece_004"
+  },
+  {
+    "accepted": 370,
+    "score": 6.364890098571777,
+    "piece_id": "piece_007"
+  },
+  {
+    "accepted": 371,
+    "score": 6.362865447998047,
+    "piece_id": "piece_013"
+  },
+  {
+    "accepted": 372,
+    "score": 6.360589981079102,
+    "piece_id": "piece_011"
+  },
+  {
+    "accepted": 373,
+    "score": 6.357097625732422,
+    "piece_id": "piece_006"
+  },
+  {
+    "accepted": 374,
+    "score": 6.354969501495361,
+    "piece_id": "piece_005"
+  },
+  {
+    "accepted": 375,
+    "score": 6.352842807769775,
+    "piece_id": "piece_005"
+  },
+  {
+    "accepted": 376,
+    "score": 6.349948883056641,
+    "piece_id": "piece_004"
+  },
+  {
+    "accepted": 377,
+    "score": 6.347650527954102,
+    "piece_id": "piece_017"
+  },
+  {
+    "accepted": 378,
+    "score": 6.344865322113037,
+    "piece_id": "piece_018"
+  },
+  {
+    "accepted": 379,
+    "score": 6.342160701751709,
+    "piece_id": "piece_014"
+  },
+  {
+    "accepted": 380,
+    "score": 6.340519428253174,
+    "piece_id": "piece_008"
+  },
+  {
+    "accepted": 381,
+    "score": 6.338380336761475,
+    "piece_id": "piece_012"
+  },
+  {
+    "accepted": 382,
+    "score": 6.336127758026123,
+    "piece_id": "piece_010"
+  },
+  {
+    "accepted": 383,
+    "score": 6.333835601806641,
+    "piece_id": "piece_005"
+  },
+  {
+    "accepted": 384,
+    "score": 6.332100868225098,
+    "piece_id": "piece_005"
+  },
+  {
+    "accepted": 385,
+    "score": 6.328369140625,
+    "piece_id": "piece_006"
+  },
+  {
+    "accepted": 386,
+    "score": 6.3257622718811035,
+    "piece_id": "piece_001"
+  },
+  {
+    "accepted": 387,
+    "score": 6.324204921722412,
+    "piece_id": "piece_014"
+  },
+  {
+    "accepted": 388,
+    "score": 6.3215837478637695,
+    "piece_id": "piece_006"
+  },
+  {
+    "accepted": 389,
+    "score": 6.318130970001221,
+    "piece_id": "piece_006"
+  },
+  {
+    "accepted": 390,
+    "score": 6.316971302032471,
+    "piece_id": "piece_018"
+  },
+  {
+    "accepted": 391,
+    "score": 6.315068244934082,
+    "piece_id": "piece_018"
+  },
+  {
+    "accepted": 392,
+    "score": 6.313263416290283,
+    "piece_id": "piece_014"
+  },
+  {
+    "accepted": 393,
+    "score": 6.311432361602783,
+    "piece_id": "piece_017"
+  },
+  {
+    "accepted": 394,
+    "score": 6.309837818145752,
+    "piece_id": "piece_006"
+  },
+  {
+    "accepted": 395,
+    "score": 6.308032035827637,
+    "piece_id": "piece_017"
+  },
+  {
+    "accepted": 396,
+    "score": 6.305646896362305,
+    "piece_id": "piece_018"
+  },
+  {
+    "accepted": 397,
+    "score": 6.303748607635498,
+    "piece_id": "piece_014"
+  },
+  {
+    "accepted": 398,
+    "score": 6.301595687866211,
+    "piece_id": "piece_017"
+  },
+  {
+    "accepted": 399,
+    "score": 6.2987380027771,
+    "piece_id": "piece_018"
+  },
+  {
+    "accepted": 400,
+    "score": 6.296562671661377,
+    "piece_id": "piece_002"
+  },
+  {
+    "accepted": 401,
+    "score": 6.294399261474609,
+    "piece_id": "piece_013"
+  },
+  {
+    "accepted": 402,
+    "score": 6.2910614013671875,
+    "piece_id": "piece_007"
+  },
+  {
+    "accepted": 403,
+    "score": 6.2891693115234375,
+    "piece_id": "piece_003"
+  },
+  {
+    "accepted": 404,
+    "score": 6.288352012634277,
+    "piece_id": "piece_015"
+  },
+  {
+    "accepted": 405,
+    "score": 6.284965991973877,
+    "piece_id": "piece_011"
+  },
+  {
+    "accepted": 406,
+    "score": 6.283627986907959,
+    "piece_id": "piece_015"
+  },
+  {
+    "accepted": 407,
+    "score": 6.280778884887695,
+    "piece_id": "piece_011"
+  },
+  {
+    "accepted": 408,
+    "score": 6.274701118469238,
+    "piece_id": "piece_018"
+  },
+  {
+    "accepted": 409,
+    "score": 6.270244121551514,
+    "piece_id": "piece_018"
+  },
+  {
+    "accepted": 410,
+    "score": 6.268124580383301,
+    "piece_id": "piece_018"
+  },
+  {
+    "accepted": 411,
+    "score": 6.263944149017334,
+    "piece_id": "piece_016"
+  },
+  {
+    "accepted": 412,
+    "score": 6.261588096618652,
+    "piece_id": "piece_014"
+  },
+  {
+    "accepted": 413,
+    "score": 6.258285045623779,
+    "piece_id": "piece_018"
+  },
+  {
+    "accepted": 414,
+    "score": 6.25612735748291,
+    "piece_id": "piece_016"
+  },
+  {
+    "accepted": 415,
+    "score": 6.253441333770752,
+    "piece_id": "piece_017"
+  },
+  {
+    "accepted": 416,
+    "score": 6.2526445388793945,
+    "piece_id": "piece_014"
+  },
+  {
+    "accepted": 417,
+    "score": 6.2514472007751465,
+    "piece_id": "piece_017"
+  },
+  {
+    "accepted": 418,
+    "score": 6.250314712524414,
+    "piece_id": "piece_015"
+  },
+  {
+    "accepted": 419,
+    "score": 6.248161792755127,
+    "piece_id": "piece_007"
+  },
+  {
+    "accepted": 420,
+    "score": 6.246630668640137,
+    "piece_id": "piece_005"
+  },
+  {
+    "accepted": 421,
+    "score": 6.244531154632568,
+    "piece_id": "piece_014"
+  },
+  {
+    "accepted": 422,
+    "score": 6.242650032043457,
+    "piece_id": "piece_015"
+  },
+  {
+    "accepted": 423,
+    "score": 6.241024971008301,
+    "piece_id": "piece_015"
+  },
+  {
+    "accepted": 424,
+    "score": 6.238692760467529,
+    "piece_id": "piece_014"
+  },
+  {
+    "accepted": 425,
+    "score": 6.2374114990234375,
+    "piece_id": "piece_011"
+  },
+  {
+    "accepted": 426,
+    "score": 6.234010219573975,
+    "piece_id": "piece_016"
+  },
+  {
+    "accepted": 427,
+    "score": 6.233119487762451,
+    "piece_id": "piece_017"
+  },
+  {
+    "accepted": 428,
+    "score": 6.231543064117432,
+    "piece_id": "piece_009"
+  },
+  {
+    "accepted": 429,
+    "score": 6.230208873748779,
+    "piece_id": "piece_015"
+  },
+  {
+    "accepted": 430,
+    "score": 6.228714466094971,
+    "piece_id": "piece_007"
+  },
+  {
+    "accepted": 431,
+    "score": 6.226461410522461,
+    "piece_id": "piece_007"
+  },
+  {
+    "accepted": 432,
+    "score": 6.225337505340576,
+    "piece_id": "piece_005"
+  },
+  {
+    "accepted": 433,
+    "score": 6.224594593048096,
+    "piece_id": "piece_015"
+  },
+  {
+    "accepted": 434,
+    "score": 6.223016262054443,
+    "piece_id": "piece_009"
+  },
+  {
+    "accepted": 435,
+    "score": 6.222407817840576,
+    "piece_id": "piece_009"
+  },
+  {
+    "accepted": 436,
+    "score": 6.220593452453613,
+    "piece_id": "piece_018"
+  },
+  {
+    "accepted": 437,
+    "score": 6.218789577484131,
+    "piece_id": "piece_014"
+  },
+  {
+    "accepted": 438,
+    "score": 6.217013359069824,
+    "piece_id": "piece_017"
+  },
+  {
+    "accepted": 439,
+    "score": 6.215327262878418,
+    "piece_id": "piece_007"
+  },
+  {
+    "accepted": 440,
+    "score": 6.213086128234863,
+    "piece_id": "piece_018"
+  },
+  {
+    "accepted": 441,
+    "score": 6.211010932922363,
+    "piece_id": "piece_004"
+  },
+  {
+    "accepted": 442,
+    "score": 6.209069728851318,
+    "piece_id": "piece_016"
+  },
+  {
+    "accepted": 443,
+    "score": 6.207755088806152,
+    "piece_id": "piece_001"
+  },
+  {
+    "accepted": 444,
+    "score": 6.204916000366211,
+    "piece_id": "piece_007"
+  },
+  {
+    "accepted": 445,
+    "score": 6.204097747802734,
+    "piece_id": "piece_008"
+  },
+  {
+    "accepted": 446,
+    "score": 6.202608585357666,
+    "piece_id": "piece_007"
+  },
+  {
+    "accepted": 447,
+    "score": 6.198265552520752,
+    "piece_id": "piece_018"
+  },
+  {
+    "accepted": 448,
+    "score": 6.195390701293945,
+    "piece_id": "piece_007"
+  },
+  {
+    "accepted": 449,
+    "score": 6.194041728973389,
+    "piece_id": "piece_017"
+  },
+  {
+    "accepted": 450,
+    "score": 6.1915483474731445,
+    "piece_id": "piece_007"
+  },
+  {
+    "accepted": 451,
+    "score": 6.189847469329834,
+    "piece_id": "piece_016"
+  },
+  {
+    "accepted": 452,
+    "score": 6.187736988067627,
+    "piece_id": "piece_017"
+  },
+  {
+    "accepted": 453,
+    "score": 6.186457633972168,
+    "piece_id": "piece_005"
+  },
+  {
+    "accepted": 454,
+    "score": 6.183502197265625,
+    "piece_id": "piece_018"
+  },
+  {
+    "accepted": 455,
+    "score": 6.182967662811279,
+    "piece_id": "piece_015"
+  },
+  {
+    "accepted": 456,
+    "score": 6.18061637878418,
+    "piece_id": "piece_006"
+  },
+  {
+    "accepted": 457,
+    "score": 6.178719520568848,
+    "piece_id": "piece_005"
+  },
+  {
+    "accepted": 458,
+    "score": 6.177375316619873,
+    "piece_id": "piece_002"
+  },
+  {
+    "accepted": 459,
+    "score": 6.17595100402832,
+    "piece_id": "piece_005"
+  },
+  {
+    "accepted": 460,
+    "score": 6.174774646759033,
+    "piece_id": "piece_011"
+  },
+  {
+    "accepted": 461,
+    "score": 6.174130439758301,
+    "piece_id": "piece_018"
+  },
+  {
+    "accepted": 462,
+    "score": 6.172647476196289,
+    "piece_id": "piece_002"
+  },
+  {
+    "accepted": 463,
+    "score": 6.171735763549805,
+    "piece_id": "piece_004"
+  },
+  {
+    "accepted": 464,
+    "score": 6.1709465980529785,
+    "piece_id": "piece_005"
+  },
+  {
+    "accepted": 465,
+    "score": 6.168951511383057,
+    "piece_id": "piece_006"
+  },
+  {
+    "accepted": 466,
+    "score": 6.1681809425354,
+    "piece_id": "piece_007"
+  },
+  {
+    "accepted": 467,
+    "score": 6.1651291847229,
+    "piece_id": "piece_018"
+  },
+  {
+    "accepted": 468,
+    "score": 6.163541316986084,
+    "piece_id": "piece_018"
+  },
+  {
+    "accepted": 469,
+    "score": 6.162524223327637,
+    "piece_id": "piece_016"
+  },
+  {
+    "accepted": 470,
+    "score": 6.161169052124023,
+    "piece_id": "piece_003"
+  },
+  {
+    "accepted": 471,
+    "score": 6.158928871154785,
+    "piece_id": "piece_007"
+  },
+  {
+    "accepted": 472,
+    "score": 6.1575608253479,
+    "piece_id": "piece_014"
+  },
+  {
+    "accepted": 473,
+    "score": 6.156054496765137,
+    "piece_id": "piece_010"
+  },
+  {
+    "accepted": 474,
+    "score": 6.15330696105957,
+    "piece_id": "piece_007"
+  },
+  {
+    "accepted": 475,
+    "score": 6.152322769165039,
+    "piece_id": "piece_017"
+  },
+  {
+    "accepted": 476,
+    "score": 6.151412487030029,
+    "piece_id": "piece_018"
+  },
+  {
+    "accepted": 477,
+    "score": 6.15019416809082,
+    "piece_id": "piece_005"
+  },
+  {
+    "accepted": 478,
+    "score": 6.148805141448975,
+    "piece_id": "piece_007"
+  },
+  {
+    "accepted": 479,
+    "score": 6.147066593170166,
+    "piece_id": "piece_003"
+  },
+  {
+    "accepted": 480,
+    "score": 6.1457839012146,
+    "piece_id": "piece_007"
+  },
+  {
+    "accepted": 481,
+    "score": 6.144794940948486,
+    "piece_id": "piece_017"
+  },
+  {
+    "accepted": 482,
+    "score": 6.144000053405762,
+    "piece_id": "piece_007"
+  },
+  {
+    "accepted": 483,
+    "score": 6.141457557678223,
+    "piece_id": "piece_018"
+  },
+  {
+    "accepted": 484,
+    "score": 6.140463829040527,
+    "piece_id": "piece_004"
+  },
+  {
+    "accepted": 485,
+    "score": 6.139081001281738,
+    "piece_id": "piece_013"
+  },
+  {
+    "accepted": 486,
+    "score": 6.138244152069092,
+    "piece_id": "piece_009"
+  },
+  {
+    "accepted": 487,
+    "score": 6.13638162612915,
+    "piece_id": "piece_018"
+  },
+  {
+    "accepted": 488,
+    "score": 6.135174751281738,
+    "piece_id": "piece_005"
+  },
+  {
+    "accepted": 489,
+    "score": 6.133749961853027,
+    "piece_id": "piece_014"
+  },
+  {
+    "accepted": 490,
+    "score": 6.130656719207764,
+    "piece_id": "piece_013"
+  },
+  {
+    "accepted": 491,
+    "score": 6.129464626312256,
+    "piece_id": "piece_018"
+  },
+  {
+    "accepted": 492,
+    "score": 6.128176212310791,
+    "piece_id": "piece_007"
+  },
+  {
+    "accepted": 493,
+    "score": 6.126629829406738,
+    "piece_id": "piece_018"
+  },
+  {
+    "accepted": 494,
+    "score": 6.1253485679626465,
+    "piece_id": "piece_006"
+  },
+  {
+    "accepted": 495,
+    "score": 6.124507904052734,
+    "piece_id": "piece_018"
+  },
+  {
+    "accepted": 496,
+    "score": 6.1237711906433105,
+    "piece_id": "piece_016"
+  },
+  {
+    "accepted": 497,
+    "score": 6.121409893035889,
+    "piece_id": "piece_018"
+  },
+  {
+    "accepted": 498,
+    "score": 6.120665073394775,
+    "piece_id": "piece_003"
+  },
+  {
+    "accepted": 499,
+    "score": 6.118148326873779,
+    "piece_id": "piece_018"
+  },
+  {
+    "accepted": 500,
+    "score": 6.117332935333252,
+    "piece_id": "piece_007"
+  }
+]

@@ -1,4 +1,16 @@
 data/source/*
+data/grayscale/*
+!data/grayscale/Barack_gray.png
+data/masks/*_weights.png
+!data/masks/Barack_weights.png
+data/weighted/*
+!data/weighted/Barack_weighted.png
+out/final/*
+!out/final/Barack_collage.png
+!out/final/Barack_placements.json
+out/progress/*
+!out/progress/Barack/
+!out/progress/Barack/**
 out/debug/
 __pycache__/
 *.pyc

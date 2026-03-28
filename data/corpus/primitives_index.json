@@ -1,0 +1,344 @@
+[
+  {
+    "id": "piece_001",
+    "image_path": "data/corpus/piece_001.png",
+    "mask_path": "data/corpus/piece_001_mask.png",
+    "width": 183,
+    "height": 197,
+    "area": 18603,
+    "centroid": [
+      93.59517282158792,
+      80.66553781648122
+    ],
+    "aspect_ratio": 0.9289340101522843,
+    "bbox": [
+      69,
+      605,
+      183,
+      197
+    ]
+  },
+  {
+    "id": "piece_002",
+    "image_path": "data/corpus/piece_002.png",
+    "mask_path": "data/corpus/piece_002_mask.png",
+    "width": 175,
+    "height": 172,
+    "area": 16955,
+    "centroid": [
+      95.89189029784724,
+      104.69802418165733
+    ],
+    "aspect_ratio": 1.0174418604651163,
+    "bbox": [
+      101,
+      175,
+      175,
+      172
+    ]
+  },
+  {
+    "id": "piece_003",
+    "image_path": "data/corpus/piece_003.png",
+    "mask_path": "data/corpus/piece_003_mask.png",
+    "width": 150,
+    "height": 173,
+    "area": 14224,
+    "centroid": [
+      59.29225253093363,
+      70.7394544431946
+    ],
+    "aspect_ratio": 0.8670520231213873,
+    "bbox": [
+      162,
+      336,
+      150,
+      173
+    ]
+  },
+  {
+    "id": "piece_004",
+    "image_path": "data/corpus/piece_004.png",
+    "mask_path": "data/corpus/piece_004_mask.png",
+    "width": 156,
+    "height": 157,
+    "area": 11656,
+    "centroid": [
+      61.202728208647905,
+      83.75832189430336
+    ],
+    "aspect_ratio": 0.9936305732484076,
+    "bbox": [
+      256,
+      672,
+      156,
+      157
+    ]
+  },
+  {
+    "id": "piece_005",
+    "image_path": "data/corpus/piece_005.png",
+    "mask_path": "data/corpus/piece_005_mask.png",
+    "width": 175,
+    "height": 166,
+    "area": 17588,
+    "centroid": [
+      77.5382078690016,
+      78.04753240846031
+    ],
+    "aspect_ratio": 1.0542168674698795,
+    "bbox": [
+      261,
+      230,
+      175,
+      166
+    ]
+  },
+  {
+    "id": "piece_006",
+    "image_path": "data/corpus/piece_006.png",
+    "mask_path": "data/corpus/piece_006_mask.png",
+    "width": 119,
+    "height": 176,
+    "area": 14899,
+    "centroid": [
+      58.37150144304987,
+      102.85878246862205
+    ],
+    "aspect_ratio": 0.6761363636363636,
+    "bbox": [
+      59,
+      309,
+      119,
+      176
+    ]
+  },
+  {
+    "id": "piece_007",
+    "image_path": "data/corpus/piece_007.png",
+    "mask_path": "data/corpus/piece_007_mask.png",
+    "width": 217,
+    "height": 65,
+    "area": 7421,
+    "centroid": [
+      123.67618919283116,
+      32.28500202129093
+    ],
+    "aspect_ratio": 3.3384615384615386,
+    "bbox": [
+      366,
+      43,
+      217,
+      65
+    ]
+  },
+  {
+    "id": "piece_008",
+    "image_path": "data/corpus/piece_008.png",
+    "mask_path": "data/corpus/piece_008_mask.png",
+    "width": 187,
+    "height": 160,
+    "area": 20492,
+    "centroid": [
+      93.72506343939098,
+      73.01742143275425
+    ],
+    "aspect_ratio": 1.16875,
+    "bbox": [
+      28,
+      482,
+      187,
+      160
+    ]
+  },
+  {
+    "id": "piece_009",
+    "image_path": "data/corpus/piece_009.png",
+    "mask_path": "data/corpus/piece_009_mask.png",
+    "width": 200,
+    "height": 165,
+    "area": 18134,
+    "centroid": [
+      110.77925443917503,
+      94.46239108856292
+    ],
+    "aspect_ratio": 1.2121212121212122,
+    "bbox": [
+      208,
+      83,
+      200,
+      165
+    ]
+  },
+  {
+    "id": "piece_010",
+    "image_path": "data/corpus/piece_010.png",
+    "mask_path": "data/corpus/piece_010_mask.png",
+    "width": 205,
+    "height": 163,
+    "area": 18152,
+    "centroid": [
+      89.7380453944469,
+      89.13574261789334
+    ],
+    "aspect_ratio": 1.2576687116564418,
+    "bbox": [
+      202,
+      531,
+      205,
+      163
+    ]
+  },
+  {
+    "id": "piece_011",
+    "image_path": "data/corpus/piece_011.png",
+    "mask_path": "data/corpus/piece_011_mask.png",
+    "width": 179,
+    "height": 208,
+    "area": 25266,
+    "centroid": [
+      94.80475738146126,
+      96.18115253700626
+    ],
+    "aspect_ratio": 0.8605769230769231,
+    "bbox": [
+      624,
+      245,
+      179,
+      208
+    ]
+  },
+  {
+    "id": "piece_012",
+    "image_path": "data/corpus/piece_012.png",
+    "mask_path": "data/corpus/piece_012_mask.png",
+    "width": 180,
+    "height": 171,
+    "area": 17201,
+    "centroid": [
+      86.33608511133073,
+      80.81396430440091
+    ],
+    "aspect_ratio": 1.0526315789473684,
+    "bbox": [
+      791,
+      289,
+      180,
+      171
+    ]
+  },
+  {
+    "id": "piece_013",
+    "image_path": "data/corpus/piece_013.png",
+    "mask_path": "data/corpus/piece_013_mask.png",
+    "width": 172,
+    "height": 197,
+    "area": 10610,
+    "centroid": [
+      70.68114985862394,
+      90.81300659754949
+    ],
+    "aspect_ratio": 0.8730964467005076,
+    "bbox": [
+      412,
+      315,
+      172,
+      197
+    ]
+  },
+  {
+    "id": "piece_014",
+    "image_path": "data/corpus/piece_014.png",
+    "mask_path": "data/corpus/piece_014_mask.png",
+    "width": 204,
+    "height": 224,
+    "area": 24504,
+    "centroid": [
+      95.69890630101207,
+      106.43629611492001
+    ],
+    "aspect_ratio": 0.9107142857142857,
+    "bbox": [
+      491,
+      132,
+      204,
+      224
+    ]
+  },
+  {
+    "id": "piece_015",
+    "image_path": "data/corpus/piece_015.png",
+    "mask_path": "data/corpus/piece_015_mask.png",
+    "width": 130,
+    "height": 182,
+    "area": 10255,
+    "centroid": [
+      77.45294978059484,
+      80.53915163334959
+    ],
+    "aspect_ratio": 0.7142857142857143,
+    "bbox": [
+      865,
+      401,
+      130,
+      182
+    ]
+  },
+  {
+    "id": "piece_016",
+    "image_path": "data/corpus/piece_016.png",
+    "mask_path": "data/corpus/piece_016_mask.png",
+    "width": 116,
+    "height": 137,
+    "area": 6254,
+    "centroid": [
+      51.1810041573393,
+      70.47233770386953
+    ],
+    "aspect_ratio": 0.8467153284671532,
+    "bbox": [
+      815,
+      174,
+      116,
+      137
+    ]
+  },
+  {
+    "id": "piece_017",
+    "image_path": "data/corpus/piece_017.png",
+    "mask_path": "data/corpus/piece_017_mask.png",
+    "width": 129,
+    "height": 184,
+    "area": 10702,
+    "centroid": [
+      68.32451878153616,
+      108.70295271911792
+    ],
+    "aspect_ratio": 0.7010869565217391,
+    "bbox": [
+      390,
+      580,
+      129,
+      184
+    ]
+  },
+  {
+    "id": "piece_018",
+    "image_path": "data/corpus/piece_018.png",
+    "mask_path": "data/corpus/piece_018_mask.png",
+    "width": 173,
+    "height": 84,
+    "area": 6331,
+    "centroid": [
+      85.00063181172011,
+      46.07723898278313
+    ],
+    "aspect_ratio": 2.0595238095238093,
+    "bbox": [
+      296,
+      898,
+      173,
+      84
+    ]
+  }
+]
