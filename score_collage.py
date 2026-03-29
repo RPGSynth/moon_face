@@ -26,3 +26,12 @@ def load_target_assets(stem, canvas_size):
 def weighted_l1_score(rendered, target_gray, target_weights):
     diff = np.abs(rendered.astype(np.float32) - target_gray.astype(np.float32))
     return float(np.mean(diff * target_weights.astype(np.float32)))
+
+
+def weighted_l1_score_delta(current_canvas_roi, trial_canvas_roi, target_gray_roi, target_weights_roi, total_pixels):
+    current_error = np.abs(current_canvas_roi.astype(np.float32) - target_gray_roi.astype(np.float32))
+    trial_error = np.abs(trial_canvas_roi.astype(np.float32) - target_gray_roi.astype(np.float32))
+
+    current_sum = float(np.sum(current_error * target_weights_roi.astype(np.float32)))
+    trial_sum = float(np.sum(trial_error * target_weights_roi.astype(np.float32)))
+    return (trial_sum - current_sum) / float(total_pixels)
