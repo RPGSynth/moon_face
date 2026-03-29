@@ -8,10 +8,10 @@ data/weighted/*
 out/final/*
 !out/final/Barack_collage.png
 !out/final/Barack_placements.json
-out/progress/*
-!out/progress/Barack/
-!out/progress/Barack/**
-out/debug/
+out/progress/**
+!out/progress/.gitkeep
+out/debug/**
+!out/debug/.gitkeep
 __pycache__/
 *.pyc
 .vscode/codex-python-envs.md
